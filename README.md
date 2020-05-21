@@ -1,2 +1,2 @@
 # second
-Second COVID-19 Visualization
+Second COVID-19 Visualization.
